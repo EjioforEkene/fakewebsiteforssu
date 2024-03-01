@@ -1,0 +1,1218 @@
+<!doctype html>
+<!--[if lt IE 6 ]> <html lang='en' id = 'sunderlandsu-default' class="no-js ie6 page-content-html"> <![endif]-->
+<!--[if IE 7 ]>    <html lang='en' id = 'sunderlandsu-default' class="no-js ie7 page-content-html"> <![endif]-->
+<!--[if IE 8 ]>    <html lang='en' id = 'sunderlandsu-default' class="no-js ie8 page-content-html"> <![endif]-->
+<!--[if IE 9 ]>    <html lang='en' id = 'sunderlandsu-default' class="no-js ie9 page-content-html"> <![endif]-->
+<!--[if !(IE)]><!--> <html lang='en' id = 'sunderlandsu-default' class="no-js page-content-html "> <!--<![endif]-->
+	
+<!-- Mirrored from www.sunderlandsu.co.uk/support/general-support/university-support by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 01 Mar 2024 11:23:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+		<meta charset="utf-8" />
+
+<title>
+		University Support @ University of Sunderland Students' Union
+</title>
+
+	<!-- Open Graph tags from layout/header -->
+	<meta property="og:title"  content="University Support @ University of Sunderland Students&#39; Union" />
+	<meta property="og:image"  content="" />
+	<meta property="og:image:secure_url" content="" />
+	<meta property="og:image:width" content="400" />
+	<meta property="og:image:height" content="300" />
+	<meta property="og:description" content="" />
+	<meta property="og:url" content="university-support.html" />
+	<meta property="og:type" content="website" />
+	<meta property="fb:app_id" content="843813249049409" />
+
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale = 1.0" />
+
+ <link rel="icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/35/original/YOUR_SU_icon_32x32.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/35/original/YOUR_SU_icon_32x32.ico" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/34/original/YOUR_Sunderland_SU_red_resized_144x_1_114x.jpg" sizes="57x57" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/34/original/YOUR_Sunderland_SU_red_resized_144x_1_114x.jpg" sizes="114x114" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/33/original/YOUR_Sunderland_SU_red_resized_144x.jpg" sizes="72x72" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/33/original/YOUR_Sunderland_SU_red_resized_144x.jpg" sizes="144x144" /> 
+
+  <link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/application_student_view-c7a2dd41b04bd923530659f295bd646e8ebf9f402dde70f18073a0bcc1fd6bce.css" />
+<link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/advance-cms-c4f768369ef72ca634e273dafb07fb266f76fce6c4a0e55a364de858c5d3a346.css" />
+  <link rel="stylesheet" media="print" href="https://assets.unioncloud.org/assets/print-56319d8e517d5b2d6ce5403a19c7f9aa99091592b5834e55208bfe496e2498e4.css" />
+  <link rel="stylesheet" media="print" href="https://assets.unioncloud.org/assets/print-user-1665f940ffe8630711ec4cc24b419bd058924972acf78f60762dc3f302315044.css" />
+  
+  <link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/default/stylesheets/style-a66f6a5e0f847429b62d9ab23497016fb104cfe23cdfd95cd99581444313c053.css" />
+  <link rel="stylesheet" media="screen" href="http://assets.prod.unioncloud-internal.com/global_assets/stylesheets/sunderlandsu/sunderlandsu.css?v1=20240301112322" type="text/css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="z+JZWTXWIoaeWnPYQatoMQOL3wF60BzWWjoi0Q4HEixa5q3IrZZHZ41O6u42u9CER+QnvXPNDgxdSUFxSP2mzg==" />
+<script LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+	function changeFontSize(id, size) {
+		document.getElementById(id).style.fontSize = size + "px";
+		document.cookie="nusfontcookie="+size+";path=/";
+	}
+	function getCookie(c_name){
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++)
+		{
+			x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			x=x.replace(/^\s+|\s+$/g,"");
+			if (x==c_name)
+			{
+				return unescape(y);
+			}
+		}
+	}
+	function setDefaultFontSize(){
+		var fontSize = getCookie("nusfontcookie");
+		if (fontSize>0)
+		{
+			document.getElementById("nusfont").style.fontSize = fontSize + "px";
+		}
+	}
+</SCRIPT>
+<script src="https://assets.unioncloud.org/assets/core-5879ce87a6ea3590557858aa9f2f2e0796adae83b151f58f5debcff4be777445.js"></script>
+	<script src="https://kit.fontawesome.com/d94c4d8b1e.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+<!-- Global site tag (gtag.js) - Google Analytics --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-38723468-1"></script> 
+<script> 
+window.dataLayer = window.dataLayer || []; 
+function gtag(){dataLayer.push(arguments);} 
+gtag('js', new Date());
+
+gtag('config', 'UA-38723468-1'); 
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4RQWYTX5BE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4RQWYTX5BE');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '957712978382571');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=957712978382571&amp;ev=PageView&amp;noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<style>
+.wrapper header {
+background: #fff;
+border-top: 20px solid #211261;
+padding: 10px 0 20px;
+}
+#logoDiv img {
+max-width: 200px !important;
+}
+.btn-sso{
+padding:0 !important;
+width:fit-content!important;}
+.btn-sso h3{
+text-transform:capitalize!important;
+margin:0!important;
+font-size: 1.2rem !important;
+font-family: 'Intelo', Helvetica, Arial, sans-serif !important;
+display: flex;
+align-items: center;
+padding: 0 0 0 15px !important;
+font-weight: 600 !important;
+}
+label {color: #211261 !important;}
+.btn-sso h3::after{
+content: "\f061";
+    font-family: "Font Awesome 6 Pro",sans-serif!important;
+    font-weight: 900!important;
+    text-decoration: none!important;
+    margin-left: 15px;
+    width: fit-content;
+    color: #fff;
+background: #e64360;
+    border-radius: 10px;
+    width: 65px!important;
+    display: flex;
+    height: 65px!important;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-decoration: none!important;
+    transform: scale(1.04);
+}
+.form-label{margin-top:1rem;}
+.pt-2, .py-2 {padding: 0 !important;
+}
+.btn {
+border-radius: 10px !important; 
+box-shadow: none;
+background: #211261;
+color: #fff;
+border: 1px solid #211261 !important;
+}
+.btn-sso:hover {
+box-shadow: inset 25em 0 0 0 #fff;
+    transition: ease-out .2s;
+    color: #211261;
+}
+.btn-sso:hover h3::after {
+left: 8px;
+    transition-duration: .2s;
+}
+a#showEmailLink {
+    width: fit-content;
+    margin: 20px auto 0;
+    display: block;
+    color: #211261;
+    font-family: 'Intelo', Helvetica, Arial, sans-serif;
+}
+#separation_text {
+visibility:hidden;
+display:block !important;
+margin: 0 auto;
+width: fit-content;
+}
+#separation_text::after {
+    content: 'Guest login / Sign up';
+    visibility: visible;
+    font-size: 1.4rem;
+    font-weight: bold;
+    display: block;
+color:#211261;
+font-family: 'Intelo', Helvetica, Arial, sans-serif !important;
+
+}
+@media only screen and (max-width:480px){
+.row-size, .div-size{width:100% !important;}
+}
+</style>
+<script>
+/* --- Script that hides guest login under link --- */
+function hideEmail() {
+    document.querySelector('#loginDiv form').style.display = 'none'; 
+}
+
+function showEmail() {
+    document.querySelector('#loginDiv form').style.display = 'block'; 
+    document.querySelector('#loginDiv #showEmailLink').style.display = 'none'; 
+}
+
+function createToggleLink(target) {
+    var elm = document.createElement('a'); 
+    elm.id = "showEmailLink"; 
+    elm.href = "javascript:void(0);";  
+    elm.innerText = "Not got your University email?"; 
+    elm.addEventListener('click',showEmail); 
+    elm.addEventListener('keydown',showEmail); 
+    // return elm; 
+    target.parentNode.insertBefore( elm, target); 
+
+}
+
+function restyle() {
+    var logo = document.getElementById('logo');
+    var separator = document.getElementById('separation_text');
+    if(separator) { separator.innerHTML = "<span style=\"background: #fff;margin-top: -0.8em;padding: 0 0.5em;\">OR</span>"; }
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    if(document.getElementById('loginDiv')){
+        console.log("Loaded Login Changes");
+        var target = document.querySelectorAll('#loginDiv br')[1]; 
+        restyle();
+        if(document.getElementsByClassName('btn-sso').length > 0) {
+            hideEmail(); 
+            createToggleLink(target);
+        }
+        document.getElementById('email_label').innerText = 'Email'; 
+    }
+});</script>
+
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>
+
+
+		
+	</head>
+		<body id = 'uc-page-id-university-support' class = 'uc-page-class-university-support  module_site action_show_page' onload="setDefaultFontSize()" >
+
+			
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+    xfbml            : true,
+    version          : 'v4.0'
+  });
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=install_email
+  page_id="121167154572146"
+  theme_color="#fa3c4c">
+</div>
+	    <div id="wyswyg" data-value ='0'> </div>
+		<noscript>Your browser does not support JavaScript!</noscript>
+    <div class="wrapper">
+			<div class="row header">
+	<div class="header-wrap">
+      <div id="union-logo">
+        <h1>
+          <a title="University of Sunderland Students&#39; Union" href="http://www.sunderlandsu.co.uk/">
+            <img alt="logo for University of Sunderland Students&#39; Union" src="https://assets.prod.unioncloud-internal.com/union_logo/images/31/original/Your_SUnderland_logouc.png" />
+          </a>
+        </h1>
+      </div>
+		
+	<div class="system-menu">
+		<div class="system-menu-wrapper">
+		  <div class="reciteme" style="cursor: pointer"><span>Accessibility Tools</span></div>
+
+		
+				<a class="uc-sign-link" href="https://sunderlandsu.authui.unioncloud.org/?redirect_to=%2Fsupport%2Fgeneral-support%2Funiversity-support">Sign in</a>
+		<div class="clear"></div>
+		</div>
+	</div>
+
+	<!-- <script>
+		$(function() {
+			$.ajax({
+          url: "",
+          method: 'GET'
+        })
+		});
+	</script> -->
+
+			<div class="search page-search">
+				<div class="uc-sheff-mob-src src-hidden">
+				 <form action="https://www.sunderlandsu.co.uk/pages/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+				<div class="search-box">
+					<div class="search-box-wrapper">
+						<input type="text" name="site_search" id="site_search_id" class="search-input floatLeft" title="Search" autocomplete="off" />
+						<input type="submit" value="Search Pages" class="search-button" data-disable-with="Please Wait..." />
+	          <div class = "clear"></div>
+					</div>
+				</div>
+</form>				</div>
+				<a href="javascript:void(0);" class="uc-mob-src-icon">Click to Search</a>
+				<a href="javascript:void(0);" class="uc-mob-src-close-icon">Click to Search</a>
+				<div class="clear"></div>
+			</div>
+     
+	<div class = "clear"></div>
+	</div>
+</div>
+<input type="hidden" name="parent_link_name" id="parent_link_name" />
+
+<div id="student_view_notice">
+  
+</div>
+
+					<div class="uc-leaderboard-advertisement">
+			<div class="top-ad"  >
+				<div>
+						<!-- Sunderland Leaderboard [async] --><script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script><script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc170655 = window.plc170655 || 0;
+document.write('<div id="placement_170655_'+plc170655+'"></div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(165652, 170655, [728,90], 'placement_170655_'+opt.place, opt); }, opt: { place: plc170655++, keywords: abkw, domain: 'servedbyadbutler.com' }});
+</script>
+				</div>
+			</div>
+		</div>
+
+					<div class="row top-union">
+						<div class="top-union-wrap">
+							    <div id="top-navigation"
+    class="section menu">
+      <div id="top-navigation-wrap" class="menu-wrap">
+        <a href="javascript:void(0)" class="phone-menu">
+Menu
+<span class="phone-menu-icon"></span>
+</a>
+<div class="nav-wrap">
+	<ul>
+
+				<li id="nav-logo-menu-wrapper" class="no-child inactive  first-menu">
+					<div class="top-menu-name-wrapper">
+							<a href="https://www.sunderlandsu.co.uk/sunderland" id="top-nav-level-one-nav-logo" class="top-nav-level-one-nav-logo">
+						Nav logo</a>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+
+				<li id="your-union-menu-wrapper" class="has-child inactive">
+					<div class="top-menu-name-wrapper">
+						<span class="has-link">
+
+								<a href="https://www.sunderlandsu.co.uk/your-union" id="top-nav-level-one-your-union" class="top-nav-level-one-your-union" >
+							Your Union</a>
+						</span>
+						<div class="clear">
+						</div>
+					</div>
+					<div class="top-submenu-wrapper">
+						<ul>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/your-union/about-us">
+										About Us</a>
+							</li>
+							<li class="children">
+											<a href="https://www.sunderlandsu.co.uk/articles?parent_link=your-union-menu-wrapper" >
+									Latest News</a>
+							</li>
+							<li class="children">
+		                                    <a href="https://sunderlandsushop.personalised.clothing/"  target="_blank">
+									Shop</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/your-union/su-jobs">
+										SU Jobs</a>
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+						</ul>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+
+				<li id="support-menu-wrapper" class="has-child inactive">
+					<div class="top-menu-name-wrapper">
+						<span class="has-link">
+
+								<a href="https://www.sunderlandsu.co.uk/support" id="top-nav-level-one-support" class="top-nav-level-one-support" >
+							Support</a>
+						</span>
+						<div class="clear">
+						</div>
+					</div>
+					<div class="top-submenu-wrapper">
+						<ul>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/support/academic-support">
+										Academic Support</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/support/general-support">
+										General Support</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/support/appointments">
+										Appointments</a>
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+						</ul>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+
+				<li id="make-it-happen-menu-wrapper" class="has-child inactive">
+					<div class="top-menu-name-wrapper">
+						<span class="has-link">
+
+								<a href="https://www.sunderlandsu.co.uk/make-it-happen" id="top-nav-level-one-make-it-happen" class="top-nav-level-one-make-it-happen" >
+							Make it Happen</a>
+						</span>
+						<div class="clear">
+						</div>
+					</div>
+					<div class="top-submenu-wrapper">
+						<ul>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/make-it-happen/student-reps">
+										Student Reps</a>
+							</li>
+							<li class="children">
+		                                    <a href="https://www.sunderlandsu.co.uk/elections" >
+									Elections</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/make-it-happen/union-council">
+										Union Council</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/make-it-happen/change-it">
+										Change It</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/make-it-happen/campaigns">
+										Campaigns</a>
+							</li>
+						</ul>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+
+				<li id="volunteering-menu-wrapper" class="has-child inactive">
+					<div class="top-menu-name-wrapper">
+						<span class="has-link">
+
+								<a href="https://www.sunderlandsu.co.uk/volunteering" id="top-nav-level-one-volunteering" class="top-nav-level-one-volunteering" >
+							Volunteering</a>
+						</span>
+						<div class="clear">
+						</div>
+					</div>
+					<div class="top-submenu-wrapper">
+						<ul>
+							<li class="children">
+											<a href="https://www.sunderlandsu.co.uk/volunteering-opportunities?parent_link=volunteering-menu-wrapper" >
+									Current Opportunities</a>
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/volunteering/register-as-a-volunteer">
+										Register as a Volunteer</a>
+							</li>
+						</ul>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+
+				<li id="landing-menu-wrapper" class="has-child inactive">
+					<div class="top-menu-name-wrapper">
+						<span class="has-link">
+
+								<a href="https://www.sunderlandsu.co.uk/societies" id="top-nav-level-one-landing" class="top-nav-level-one-societies" >
+							Societies</a>
+						</span>
+						<div class="clear">
+						</div>
+					</div>
+					<div class="top-submenu-wrapper">
+						<ul>
+							<li class="children">
+							</li>
+							<li class="children">
+							</li>
+							<li class="children">
+											<a href="https://www.sunderlandsu.co.uk/groups?parent_link=landing-menu-wrapper" >
+									Find a society</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/societies/start-a-society">
+										Start a society</a>
+							</li>
+							<li class="children">
+												<a href="https://www.sunderlandsu.co.uk/societies/committee-hub">
+										Committee Hub</a>
+							</li>
+						</ul>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+
+				<li id="events-menu-wrapper" class="no-child inactive  last-menu">
+					<div class="top-menu-name-wrapper">
+							<a href="https://www.sunderlandsu.co.uk/events" id="top-nav-level-one-events" class="top-nav-level-one-events">
+						Events</a>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+	</ul>
+	<div class="clear">
+	</div>
+</div>
+<div class="clear">
+</div>
+
+      </div>
+    </div>
+    <div id="strip"
+    class="section list lightred">
+      <div id="strip-wrap" class="list-wrap">
+        	    			<div class="edit-mode-page">
+  		<p><strong>Your</strong> <strong>Elections</strong> Voting Opens in: <span id="timer"></span>🗳️</p>
+
+  		<style type="text/css"></style>
+  		<script type="text/javascript">// Set the date we're counting down to
+var countDownDate = new Date("Mar 4, 2024 09:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("timer").innerHTML = days + "days " + hours + "hours "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("timer").innerHTML = "Elections Open!";
+  }
+}, 1000);</script>
+		</div>
+		    	
+
+      </div>
+    </div>
+
+							<div class="clear"></div>
+						</div>
+					</div>
+
+			<div class="row content">
+								<div id="breadcrumb-container">
+ <div class="breadcrumb">
+	<ul id="crumbs">
+		<li>
+      	<a href="http://www.sunderlandsu.co.uk/">Home</a>
+		</li>
+							<li>
+									<a href="https://www.sunderlandsu.co.uk/support">Support</a>
+							</li>
+							<li>
+									<a href="https://www.sunderlandsu.co.uk/support/general-support">General Support</a>
+							</li>
+							<li>
+									<a href="university-support.html">University Support</a>
+							</li>
+	
+	</ul>
+	<div class="clear"></div>
+	</div>
+</div>
+
+				    <!-- US1027 - Added new preview tabs page - start -->
+<div class="row">
+
+
+  <div class="content-wrap home-content-wrap subsites  last">
+  	<div>
+  		<div class="">
+            <div class="inside-border-padding">
+  <div class="section default-body">
+  </div>
+  <div class="clear"></div>
+</div>
+
+        			    <div id="widget-header"
+    class="section list purple">
+      <div id="widget-header-wrap" class="list-wrap">
+        	    			<div class="edit-mode-page">
+  		<h1>University Support</h1>
+
+  		<style type="text/css"></style>
+  		<script type="text/javascript"></script>
+		</div>
+		    	
+
+      </div>
+    </div>
+
+        			    <div id="column-content"
+    class="section column">
+      <div id="column-content-wrap" class="column-wrap">
+        	
+  <div id = "intro-text-column-content"
+		class="sixcol  column-content ">
+    				<div class="edit-mode-page">
+  		<div class="card nomark orange">
+<h2>Sign This Petition</h2>
+<p>This is a petition to the University to grant students still owing their school fees some leniency by allowing them access to their Canvas and giving them more time to pay their fees</p>
+<form>
+	<div>
+		<div class="form-group" style="width:300px">
+        <label for="exampleInputSID"><b>Student Number</b></label>
+        <input type="" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Student ID">
+      </div>
+      <br>
+      <div class="form-group" style="width:300px">
+        <label for="exampleInputEmail"><b>Student Email</b></label>
+        <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Email">
+      </div>
+      <br>
+      <button type="submit" style="height:30px;" class="btn btn-info btn-lg btn-rounded">Sign the Petition <i class="fas fa-arrow-right"></i></button>
+	</div>  
+</form>
+</div>
+
+  		<style type="text/css"></style>
+  		<script type="text/javascript"></script>
+		</div>
+
+	</div>
+	
+  <div id = "right-column-content"
+		class="sixcol last column-content ">
+    				<div class="edit-mode-page">
+  		<div class="card nomark orange">
+<h2>Fundraiser</h2>
+
+<p>Please contribute to the funds we are raising to help these students pay their fees.</p>
+
+<form>
+              <div class="d-flex justify-content-between align-items-center mb-3">
+                <div class="form-outline" style="width:300px">
+                  <label class="form-label" for="typeText"><b>Card Number</b></label>
+                  <input type="text" id="typeText" class="form-control form-control-lg" siez="17"
+                    placeholder="1234 5678 9012 3457" minlength="19" maxlength="19" />
+                  
+                </div>
+                
+              </div>
+              <br>
+
+              <div class="d-flex justify-content-between align-items-center mb-4">
+                <div class="form-outline" style="width:300px">
+                  <label class="form-label" for="typeName"><b>Cardholder's Name</b></label>
+                  <input type="text" id="typeName" class="form-control form-control-lg" siez="17"
+                    placeholder="Cardholder's Name" />
+                  
+                </div>
+              </div>
+              <br>
+
+              <div class="d-flex justify-content-between align-items-center pb-2">
+                <div class="form-outline" style="width:300px">
+                  <label class="form-label" for="typeExp"><b>Expiration</b></label>
+                  <input type="text" id="typeExp" class="form-control form-control-lg" placeholder="MM/YYYY"
+                    size="7" id="exp" minlength="7" maxlength="7" />
+                  
+                </div>
+                <br>
+
+                <div class="form-outline" style="width:300px">
+                  <label class="form-label" for="typeText2"><b>CVC</b></label>
+                  <input type="password" id="typeText2" class="form-control form-control-lg"
+                    placeholder="&#9679;&#9679;&#9679;" size="2" minlength="3" maxlength="3" />
+                  
+                </div>
+                <br>
+                <button type="button" style="height:30px;" class="btn btn-info btn-lg btn-rounded">Donate 
+                  <i class="fas fa-arrow-right"></i>
+                </button>
+              </div>
+            </form>
+</div>
+
+  		<style type="text/css"></style>
+  		<script type="text/javascript"></script>
+		</div>
+
+	</div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  		</div>
+  	</div>
+  	<div class="clear"></div>
+  	<div class="site-addthis"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+
+
+
+				<div class="clear">
+				</div>
+			</div>
+
+
+          <div class="row bottom-union">
+            <div class="bottom-union-wrap">
+                  <div id="desktop-footer"
+    class="section column">
+      <div id="desktop-footer-wrap" class="column-wrap">
+        	
+  <div id = "footer-column-content"
+		class="twelvecol last column-content ">
+    				<div class="edit-mode-page">
+  		<div class="desktop-footer-container">
+<div class="desktop-footer">
+<p><img alt="Your SU" src="https://assets.prod.unioncloud-internal.com/image/images/506940/original/Logo_red_small.png" style="height: 25%; width: 25%;" title="Your SU" /></p>
+
+<p><span style="font-size:12px;">Company limited by guarantee.</span><br />
+<span style="font-size:12px;">Company registered in England no: 07702161</span><br />
+<span style="font-size:12px;">Registered Charity no: 1148212</span><br />
+<span style="font-size:12px;">VAT no: 178592316</span></p>
+
+<ul class="social-icons">
+	<li><a class="red" href="http://www.facebook.com/pages/The-University-of-Sunderland-Students-Union/121167154572146" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+	<li><a class="blue" href="https://twitter.com/sunderlandsu" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+	<li><a class="lilac" href="https://instagram.com/sunderlandsu" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+	<li><a class="orange" href="https://www.youtube.com/channel/UCMwLJR73xIrhkIINKcIT31Q"><i class="fa-brands fa-youtube"></i></a></li>
+	<li><a class="green" href="https://www.tiktok.com/@sunderlandsu" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+	<li><a class="red" href="https://www.linkedin.com/company/sunderlandstudentsunion/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+</ul>
+</div>
+
+<div class="desktop-footer">
+<h2>Your SU</h2>
+
+<ul>
+	<li><a href="https://www.sunderlandsu.co.uk/your-union/about-us">About us</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/accessibility-statement">Accessibility statement</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/your-union/about-us/advertise-with-us">Advertise with us</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/privacy-policy">Privacy policy</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/terms-and-conditions">Terms and Conditions</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/your-union/su-jobs">Work with us</a></li>
+</ul>
+</div>
+
+<div class="desktop-footer">
+<h2>University Links</h2>
+
+<ul>
+	<li><a href="https://canvas.sunderland.ac.uk/">Canvas</a></li>
+	<li><a href="https://www.sunderland.ac.uk/help/your-finances/student-financial-guidance/">Financial Support</a></li>
+	<li><a href="https://sj.sunderland.ac.uk/student-information/support-services/gateway-enquiries/">Gateway</a></li>
+	<li><a href="https://library.sunderland.ac.uk/">Library</a></li>
+	<li><a href="https://sj.sunderland.ac.uk/student-information/support-services/team-sunderland/">Sports</a></li>
+	<li><a href="https://sj.sunderland.ac.uk/wellbeing/">Wellbeing Services</a></li>
+</ul>
+</div>
+
+<div class="desktop-footer contact">
+<p><a href="tel:01915153030">0191 515 3030</a></p>
+
+<p><a href="mailto:yoursu@sunderland.ac.uk">yoursu@sunderland.ac.uk</a></p>
+
+<p>University of Sunderland<br />
+Students' Union<br />
+Ground Floor, Edinburgh Building,<br />
+City Campus, Chester Road&nbsp;<br />
+Sunderland, SR1 3SD</p>
+</div>
+</div>
+
+  		<style type="text/css"></style>
+  		<script type="text/javascript"></script>
+		</div>
+
+	</div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+    <div id="mobile-footer"
+    class="section list">
+      <div id="mobile-footer-wrap" class="list-wrap">
+        	    			<div class="edit-mode-page">
+  		<div class="mobile-footer-container">
+<p style="text-align:center;"><img alt="Your SU" src="https://assets.prod.unioncloud-internal.com/image/images/501260/original/YourSU_logo_white.svg" title="Your SU" /></p>
+<button class="accordion white">
+
+<h3>Your SU</h3>
+</button>
+
+<div class="panel">
+<ul>
+	<li><a href="https://www.sunderlandsu.co.uk/your-union/about-us">About us</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/accessibility-statement">Accessibility statement</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/your-union/about-us/advertise-with-us">Advertise with us</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/privacy-policy">Privacy policy</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/terms-and-conditions">Terms and Conditions</a></li>
+	<li><a href="https://www.sunderlandsu.co.uk/your-union/su-jobs">Work with us</a></li>
+</ul>
+
+<p>&nbsp;</p>
+</div>
+<button class="accordion white">
+
+<h3>University Links</h3>
+</button>
+
+<div class="panel">
+<ul>
+	<li><a href="https://canvas.sunderland.ac.uk/">Canvas</a></li>
+	<li><a href="https://www.sunderland.ac.uk/help/your-finances/student-financial-guidance/">Financial Support</a></li>
+	<li><a href="https://sj.sunderland.ac.uk/student-information/support-services/gateway-enquiries/">Gateway</a></li>
+	<li><a href="https://library.sunderland.ac.uk/">Library</a></li>
+	<li><a href="https://sj.sunderland.ac.uk/student-information/support-services/team-sunderland/">Sports</a></li>
+	<li><a href="https://sj.sunderland.ac.uk/wellbeing/">Wellbeing Services</a></li>
+</ul>
+
+<p>&nbsp;</p>
+</div>
+<button class="accordion white">
+
+<h3>Contact Us</h3>
+</button>
+
+<div class="panel contact">
+<p><a href="tel:01915153030">0191 515 3030</a></p>
+
+<p><a href="mailto:yoursu@sunderland.ac.uk">yoursu@sunderland.ac.uk</a></p>
+
+<p>University of Sunderland Students' Union<br />
+City Campus,<br />
+Edinburgh Building, Chester Road&nbsp;<br />
+Sunderland, SR1 3SD</p>
+</div>
+
+<p style="text-align:center;">Company limited by guarantee.<br />
+Company registered in England no: 07702161<br />
+Registered Charity no: 1148212<br />
+VAT no: 178592316</p>
+
+<ul class="social-icons">
+	<li><a class="red" href="http://www.facebook.com/pages/The-University-of-Sunderland-Students-Union/121167154572146" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+	<li><a class="blue" href="https://twitter.com/sunderlandsu" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+	<li><a class="lilac" href="https://instagram.com/sunderlandsu" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+	<li><a class="orange" href="https://www.youtube.com/channel/UCMwLJR73xIrhkIINKcIT31Q"><i class="fa-brands fa-youtube"></i></a></li>
+	<li><a class="green" href="https://www.tiktok.com/@sunderlandsu" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+	<li><a class="red" href="https://www.linkedin.com/company/sunderlandstudentsunion/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+</ul>
+</div>
+
+  		<style type="text/css"></style>
+  		<script type="text/javascript"></script>
+		</div>
+		    	
+
+      </div>
+    </div>
+
+              <div class="clear"></div>
+            </div>
+          </div>
+		</div>
+		<div class="uc-poweredby-nusdigital-logo">
+	<div class="uc-poweredby-nusdigital-logo-wrapper">
+    <span class="uc-terms-of-service">
+      <a href="https://assets-totum.s3.eu-west-1.amazonaws.com/UNION CLOUD - TERMS OF SERVICE - 15092021.docx" target="_blank"> Terms of Service </a>
+    </span>
+		<span class="floatRight">
+			<a href="https://www.onevoicedigital.com/" target="_blank">
+				<img alt="Powered by OneVoice Digital" src="https://assets.unioncloud.org/assets/admin_default/onevoice_logo-81b54f66eb35ddbf3d97d030b185aa5ecfb1ea9d7f7a0f4c42be0ddaf21bbd95.png" />
+			</a>
+		</span>
+		<div class="clear"></div>
+	</div>
+</div>
+
+
+		<script src="https://assets.unioncloud.org/assets/application_student_view-6c2262f95ee77549950dd885766f26f8e86470a36c9fff6a4401288dafbf7603.js"></script>
+
+	<script src="https://assets.unioncloud.org/assets/other_script-b02912cc72472ea0709fea4f4fa42211d1aad1f4a5787a38530b3554100a6701.js"></script>
+  <script src="https://assets.unioncloud.org/assets/reciteme-59af904dc8c4cadd278044baf2b78765e2b17a60c2ccabc83ddd4b11ba816d1a.js"></script>
+
+	<script src="http://assets.prod.unioncloud-internal.com/global_assets/javascripts/sunderlandsu/sunderlandsu.js?v1=20240301112322"></script>
+<script type="text/javascript">
+  I18n.default_locale = "en";
+  I18n.locale = "en";
+</script>
+
+			<script type="text/javascript" src="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script>
+/* --- Change the heading on the volunteering opportunities page --- */
+// Get the heading element by its class name
+var headingElementVolunteering = document.querySelector('#uc-volunteering h2.heading');
+
+// Check if the heading element exists
+if (headingElementVolunteering) {
+  // Create a new <span> element
+  var spanElementVolunteering = document.createElement('span');
+
+  // Create a new <strong> element with the class "green"
+  var strongElementVolunteering = document.createElement('strong');
+  strongElementVolunteering.className = 'green';
+  strongElementVolunteering.textContent = 'Your';
+
+  // Append the <strong> element as a child of the <span> element
+  spanElementVolunteering.appendChild(strongElementVolunteering);
+
+  // Create a text node with the content " Opportunities"
+  var textNode = document.createTextNode(' Opportunities');
+
+  // Append the text node as a child of the <span> element
+  spanElementVolunteering.appendChild(textNode);
+
+  // Replace the content of the <span> element inside the <h2> element
+  headingElementVolunteering.querySelector('span').innerHTML = '';
+  headingElementVolunteering.querySelector('span').appendChild(spanElementVolunteering);
+}
+</script>
+<script>
+/* --- Change the heading on the groups page ---*/
+const h1ElementGroups = document.querySelector('#right-content h1.group-type-name');
+
+// Create the new elements
+const strongElementGroups = document.createElement('span');
+strongElementGroups.classList.add('orange');
+strongElementGroups.textContent = 'Your';
+
+// Update the text content of the existing h1 element
+h1ElementGroups.textContent = '';
+
+// Append the new elements to the h1 element
+h1ElementGroups.appendChild(strongElementGroups);
+h1ElementGroups.appendChild(document.createTextNode(' Societies'));
+</script>
+<script>
+/* --- Changes volunteer profile setup steps to have accessible headings --- */
+var volSpanElement1 = document.querySelector('li.uc-vol-step-1 span.uc-wiz-title');
+volSpanElement1.innerHTML = 'Step 1';
+var volSpanElement2 = document.querySelector('li.uc-vol-step-2 span.uc-wiz-title');
+volSpanElement2.innerHTML = 'Step 2';
+var volSpanElement3 = document.querySelector('li.uc-vol-step-3 span.uc-wiz-title');
+volSpanElement3.innerHTML = 'Step 3';
+var volSpanElement4 = document.querySelector('li.uc-vol-step-4 span.uc-wiz-title');
+volSpanElement4.innerHTML = 'Step 4';
+var volSpanElement5 = document.querySelector('li.uc-vol-step-5 span.uc-wiz-title');
+volSpanElement5.innerHTML = 'Step 5';
+var volSpanElement5 = document.querySelector('li.uc-vol-step-5 span.uc-wiz-title');
+volSpanElement5.innerHTML = 'Step 5';
+</script>
+
+<script>
+/* --- Accordion code --- */
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+<script>
+/* --- Change heading on Resources index page --- */
+const spanElementResources = document.createElement('span');
+spanElementResources.className = 'red';
+spanElementResources.textContent = 'Your';
+
+const h1TagResources = document.querySelector('#resource-homepage h1');
+h1TagResources.innerHTML = '';
+h1TagResources.appendChild(spanElementResources);
+h1TagResources.appendChild(document.createTextNode(' Resources'));
+</script>
+
+<script>
+/* --- Change heading on articles index page --- */
+const spanElementArticles = document.createElement('span');
+spanElementArticles.className = 'red';
+spanElementArticles.textContent = 'Your';
+
+const h1TagArticles = document.querySelector('#uc-articles-news .uc-articles-right-panel-search-wrapper h2');
+h1TagArticles.innerHTML = '';
+h1TagArticles.appendChild(spanElementArticles);
+h1TagArticles.appendChild(document.createTextNode(' News'));
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Create a new span element for the additional content
+      var additionalSpan = document.createElement("span");
+      additionalSpan.classList.add("dbhv");
+
+      // Create the anchor tag inside the new span
+      var anchorTag = document.createElement("a");
+      anchorTag.href = "https://harryvann.co.uk/";
+      anchorTag.target = "_blank";
+      anchorTag.textContent = "Website designed by Harry Vann";
+
+      // Append the anchor tag inside the new span
+      additionalSpan.appendChild(anchorTag);
+
+      // Get the parent element where the new content should be inserted
+      var logoWrapper = document.querySelector(".uc-poweredby-nusdigital-logo-wrapper");
+
+      // Insert the new span before the existing floatRight span
+      logoWrapper.insertBefore(additionalSpan, logoWrapper.querySelector(".floatRight"));
+    });
+  </script>
+<script>
+/*--- Alters anchor link for logo on mobile --- */
+    // Get the anchor element by its title attribute
+    const anchorElementLogo = document.querySelector('a[title="University of Sunderland Students\' Union"]');
+    
+    if (anchorElementLogo) {
+        // Update the href attribute to the new link
+        anchorElementLogo.href = "http://www.sunderlandsu.co.uk/sunderland";
+    }
+</script>
+<script>
+/* --- Change button text in guest checkout --- */
+        var guestCheckoutButton = document.querySelector('.signin-button-brinjal a');
+        guestCheckoutButton.textContent = "Student Sign In";
+    </script>
+<script>
+// Find the <span> element with the class "uc-heading-title"
+var SVspanElement = document.querySelector('.uc-heading-title span');
+
+// Check if the <span> element exists before updating its text
+if (SVspanElement) {
+    SVspanElement.textContent = 'Change It';
+}
+</script>
+<script>
+// Select the container div with class "uc-sv-category-field-holder"
+var SVcontainerDiv = document.querySelector('.uc-sv-category-field-holder');
+
+// Check if the container div exists before attempting to uncheck inputs
+if (SVcontainerDiv) {
+    // Select all input elements inside the container div
+    var SVinputElements = SVcontainerDiv.querySelectorAll('input[type="checkbox"]'); // Change the selector as needed
+
+    // Loop through the selected input elements and uncheck them
+    for (var i = 0; i < SVinputElements.length; i++) {
+        SVinputElements[i].checked = false;
+    }
+}
+</script>
+<script>
+// script to change the button text for signing a petition
+var SVanchorElement = document.querySelectorAll('.uc-sv-click-votenow');
+
+// Check if the anchor element exists
+SVanchorElement.forEach(function(SVanchorElement) {
+  SVanchorElement.textContent = 'Sign this petition';
+});
+</script>
+<script>
+// script to change the button text for liking/disliking an idea
+var SVIdeaanchorElement = document.querySelectorAll('.uc-sv-click-like-dislike');
+
+// Check if the anchor element exists
+SVIdeaanchorElement.forEach(function(SVIdeaanchorElement) {
+  SVIdeaanchorElement.textContent = 'Like/Dislike';
+});
+</script>
+<script>
+// Changes text on student voice module
+var spanElementSV = document.querySelector('.uc-add-voice span.text-left');
+
+// Check if the element exists before updating its text
+if (spanElementSV) {
+  // Update the text content of the span element
+  spanElementSV.textContent = 'Submit a suggestion or start a petition';
+}
+</script>
+<script>
+    // Script that adds heading to petitions
+    document.addEventListener('DOMContentLoaded', function () {
+        // Create a new h2 element
+        var newHeading = document.createElement('h3');
+        newHeading.textContent = 'Make sure you\'re signed in to add your voice';
+
+        // Get the parent element
+        var votingDetails = document.querySelector('.uc-sv-module-voting-details');
+
+        // Insert the new heading as the first child of the votingDetails element
+        votingDetails.insertBefore(newHeading, votingDetails.firstChild);
+    });
+</script>
+<script>
+// Add move to basket button to notices
+var noticeParagraph = document.getElementById("notice");
+
+// Create a new anchor element for the link
+var newLinkNotice = document.createElement("a");
+
+// Set the href attribute of the link
+newLinkNotice.href = "https://www.sunderlandsu.co.uk/users/anon";
+newLinkNotice.className = "cart-button"; // Set the class attribute of the link
+newLinkNotice.textContent = "Continue to Check Out"; // Set the text content of the link
+
+// Append the new link to the existing paragraph
+noticeParagraph.appendChild(newLinkNotice);
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var selectedLi = document.querySelector('.event-type-21172.selected');
+    if (selectedLi) {
+        var ul = selectedLi.parentNode;
+        var lis = ul.querySelectorAll('li');
+        for (var i = 0; i < lis.length; i++) {
+            if (lis[i] !== selectedLi) {
+                lis[i].style.display = 'none';
+            }
+        }
+    }
+});
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var selectedElementLondonEvents = document.querySelector(".event-type-21172.selected");
+        if(selectedElementLondonEvents) {
+            var allLiElements = document.querySelectorAll("ul li");
+            allLiElements.forEach(function(li) {
+                if(!li.classList.contains("event-type-21172") && !li.classList.contains("selected")) {
+                    li.style.display = "none";
+                }
+            });
+        }
+    });
+</script>
+	</body>
+
+<!-- Mirrored from www.sunderlandsu.co.uk/support/general-support/university-support by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 01 Mar 2024 11:23:25 GMT -->
+</html>

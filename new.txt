@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+06:23:24	45006/45006	---MCZ	200	added ('OK')	text/html	etag:W/%22429ea3619ac83d348983a683a236b798%22	https://www.sunderlandsu.co.uk/support/general-support/university-support	/home/kali/desktop/www.sunderlandsu.co.uk/support/general-support/university-support.html	(from )
+06:23:25	231/231	---M--	200	added ('OK')	text/plain	etag:%22e7-60f450ee03a40%22	https://www.sunderlandsu.co.uk/robots.txt		(from )
